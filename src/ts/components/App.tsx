@@ -1,7 +1,7 @@
 import React, { FC } from "react"
 
 const component: FC = () => {
-  return <div>Test</div>
+  return <div>Sample</div>
 }
 
 export default component
